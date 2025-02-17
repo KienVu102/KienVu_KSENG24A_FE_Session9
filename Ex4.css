@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    gap: 10px;
+}
+
+.blue {
+    height: 40px;
+    background-color: rgb(49, 156, 218);
+    padding-top: 15px;
+    
+}
+
+.box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: calc(100vh - 130px);
+    display: flex;
+
+}
+
+.green {
+    width: 25%;
+    background-color: rgb(53, 250, 53);
+    margin-right: 10px;
+}
+
+.red {
+    width: 100%;
+    background-color: rgb(228, 49, 49);
+}
+
+.purple {
+    height: 40px;
+    background-color: rgb(142, 36, 142);
+    padding-top: 15px;
+}
+
